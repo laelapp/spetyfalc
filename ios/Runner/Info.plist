@@ -46,8 +46,8 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
     <key>NSPhotoLibraryUsageDescription</key>
-    <string>Privacy - Photo Library Usage Description</string>
+    <string>The app needs access to your gallery so you can attach pictures to posts</string>
     <key>NSCameraUsageDescription</key>
-    <string>Privacy - Camera Usage Description</string>
+    <string>The app needs access to the camera so you can attach photos to your posts</string>
 </dict>
 </plist>
