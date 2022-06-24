@@ -49,5 +49,7 @@
     <string>The app needs access to your gallery so you can attach pictures to posts</string>
     <key>NSCameraUsageDescription</key>
     <string>The app needs access to the camera so you can attach photos to your posts</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>The app needs access to the microphone so you can attach voices to your posts</string>
 </dict>
 </plist>
