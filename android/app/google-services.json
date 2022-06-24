@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "563555111031",
+    "firebase_url": "https://spetyfalc-default-rtdb.firebaseio.com",
+    "project_id": "spetyfalc",
+    "storage_bucket": "spetyfalc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563555111031:android:ea78e1c925cfcadbb43672",
+        "android_client_info": {
+          "package_name": "com.example.spetyfalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563555111031-kb8c0n4haadu2bfft0q0qobdalveknii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIQUF8uOOqivmwlSf_MPWxpuTdx9PHD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563555111031-kb8c0n4haadu2bfft0q0qobdalveknii.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563555111031-7kv1dp24f46l44q6r0qupqj5ug27vtp9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spetyfalc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

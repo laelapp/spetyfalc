@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>563555111031-qdn0denupvvfp4ljj0oolb9malili0vd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.563555111031-qdn0denupvvfp4ljj0oolb9malili0vd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhnjDK8_70318gbJNT9VyaYkC2iFvKjnI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>563555111031</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.laelapp.spetyfalc</string>
+	<key>PROJECT_ID</key>
+	<string>spetyfalc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spetyfalc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:563555111031:ios:9f1f9e88b9a9e3ccb43672</string>
+	<key>DATABASE_URL</key>
+	<string>https://spetyfalc-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
