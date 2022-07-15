@@ -187,7 +187,7 @@ class _OnBoardScreenState extends State<OnBoardScreen> {
                                     "assets/icons/close.svg",
                                     height: 24,
                                     width: 24,
-                                    color: AppColor.dark00.withOpacity(0.2),
+                                    color: AppColor.dark00.withOpacity(0.15),
                                   ),
                                 )
                               : Container(),
